@@ -1,8 +1,10 @@
-A continuación cito a todas las personas que han apoyado al desarrollo de este proyecto. Debo dar las gracias a la Diputación Foral de Gipuzkoa por su apoyo a través del programa META! y todas las personas que han donado y han pedido el anonimato.
+**A continuación cito a todas las personas que han apoyado al desarrollo de este proyecto.**
 
-Agradecimiento con mención de honor para las siguientes personas:
+Debo dar las gracias a la Diputación Foral de Gipuzkoa por su apoyo a través del programa META! y todas las personas que han donado y han pedido el anonimato.
 
-Alejandro del Castillo Guerrero
+# Agradecimiento con mención de honor para las siguientes personas:
+
+**Alejandro del Castillo Guerrero
 Alvaro Echevarria Olaiz
 Amaia Gonzalez
 Oskar Marino
@@ -36,9 +38,9 @@ Juan Gonzalez Gómez "Obijuan"
 Plabs 3D
 Santiago Asperilla Mingallón
 Sayuri Alvarado Tanamachi
-Sergi Caballero
+Sergi Caballero**
 
-Agradecimiento por su colaboración a las siguientes personas:
+## Agradecimiento por su colaboración a las siguientes personas:
 
 Alfonso Matute
 Alfred Decker
