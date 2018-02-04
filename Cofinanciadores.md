@@ -1,6 +1,6 @@
 **A continuación cito a todas las personas que han apoyado al desarrollo de este proyecto.**
 
-Debo dar las gracias a la Diputación Foral de Gipuzkoa por su apoyo a través del programa META! y todas las personas que han donado y han pedido el anonimato.
+Doy las gracias a la Diputación Foral de Gipuzkoa por su apoyo a través del programa META! y a todas las personas que han donado y han pedido el anonimato.
 
 # Agradecimiento con mención de honor para las siguientes personas:
 
