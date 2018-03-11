@@ -4,7 +4,7 @@
 ![](Banner_FTF.png)
 
 
-**Proyecto de crowdfunding con** el apoyo de la **Fundación Goteo**, la **Diputación Foral de Gipuzkoa** y 65 [**cofinanciadores**](confinanciadores.md). La campaña de captación de fondos comenzó el 15 de Septiembre de 2016 y finalizó el 3 de Diciembre del mismo año, habiendo cumplido el objetivo de financiación. EL proyecto se ha desarrollado durante el año 2017.
+**Proyecto de crowdfunding con** el apoyo de la **Fundación Goteo**, la **Diputación Foral de Gipuzkoa** y 65 [**cofinanciadores**](Cofinanciadores.md). La campaña de captación de fondos comenzó el 15 de Septiembre de 2016 y finalizó el 3 de Diciembre del mismo año, habiendo cumplido el objetivo de financiación. EL proyecto se ha desarrollado durante el año 2017.
 
 ![](Portada_goteo_con_FTF.png)
 
