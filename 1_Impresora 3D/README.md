@@ -2,9 +2,15 @@
 
 ## Una mini fábrica de hardware abierto, desplegable con facilidad en cualquier lugar.
 
+<<<<<<< HEAD
 ![](Imagenes/Paquete_impresora3D.png)
 
 ![](Imagenes/Piezas_chasis_acrilico.png)
+=======
+![](/Imagenes/Paquete_impresora3D.jpg)
+
+![](/Imagenes/Piezas_chasis_acrilico.jpg)
+>>>>>>> origin/master
 
 [Egokitek](http://www.egokitek.com)
 
