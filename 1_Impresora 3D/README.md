@@ -1,14 +1,10 @@
 # IMPRESION 3D
 
-Prueba Kakalardo
-
 ## Una mini fábrica de hardware abierto, desplegable con facilidad en cualquier lugar.
 
 ![](\Imágenes\Paquete_impresora3D.jpg)
 
 ![](\Imágenes\Piezas del chasis en acrilico.jpg)
-
-
 
 [Egokitek](http://www.egokitek.com)
 
