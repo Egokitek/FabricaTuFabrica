@@ -1,4 +1,6 @@
-# FabricaTuFabrica
+# IMPRESION 3D
+Prueba Kakalardo
+
 ## Una mini fábrica de hardware abierto, desplegable con facilidad en cualquier lugar.
 
 **Proyecto de crowdfunding con** el apoyo de la **Fundación Goteo**, la **Diputación Foral de Gipuzkoa** y **65 patrocinadores**. La campaña comenzó el 15 de Septiembre de 2016 y finalizó el 3 de Diciembre del mismo año, habiendo cumplido el objetivo de financiación. EL proyecto se desarrollará durante el año 2017.
