@@ -14,11 +14,11 @@
 
 **Contendrá módulos como** el de moldeo con aluminio reciclado para construir herramientas mas sólidas, la conectividad a Outernet o el UPE (universal pellet extruder), sistema de reciclado y creación de nuevo filamento a partir de restos de plástico PET o similares que son abundantes y constituyen en muchos casos un desecho.  **A continuación un diagrama de bloques del conjunto:**
 
-![](Diagrama_del_proyecto.png)
+![](Diagrama_del_proyecto.PNG)
 
 ## Se trata de dotar de soberanía tecnológica al mayor número de personas.
 
-![](Despliegue_FTF.png)
+![](Despliegue_FTF.PNG)
 
 El proyecto construirá una unidad completa y agregará el conocimiento necesario para que se puedan construir réplicas del mismo, este conocimiento se liberará mediante **CC-BY-SA atribución compartir igual**. 
 
