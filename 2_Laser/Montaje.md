@@ -4,8 +4,8 @@
 
 Es necesario imprimir los siguientes ficheros stl:
 
-[6x soporte imanes](stl/6x sop_imanes.stl)
-[soporte_laser](soporte_laser)
+[6x soporte imanes](stl/6x-sop-imanes.stl)
+[soporte_laser](stl/soporte-laser.stl)
 
 Si los imprimimos juntos tienen el aspecto que se ve en la foto:
 
