@@ -39,11 +39,11 @@ Por la parte inferior el aspecto es similar. En la parte superior lleva además 
 
 **Para configurar el software necesario en el ordenador**
 
-[Configuración del software](Configuracion software)
+[Configuración del software](Configuracion software.md)
 
 **Para crear un fichero y utilizarlo con el láser**
 
-[Proceso para crear un fichero GCODE](Creacion fichero corte)
+[Proceso para crear un fichero GCODE](Creacion fichero corte.md)
 
 
 
